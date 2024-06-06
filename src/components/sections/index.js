@@ -12,7 +12,6 @@ import Testimonials from "./Testimonials";
 export {
   Navbar,
   CardDeal,
-  Billing,
  /*   Billing, */
   Clients,
   CTA,
