@@ -9,7 +9,7 @@ import {
   Testimonials,
   Clients,
   CTA,
- /* Billing, */
+ Billing, 
   Footer,
 } from "./components/sections";
 
@@ -33,7 +33,7 @@ const App = () => (
       <div className={`${styles.boxWidth}`}>
         <Status />
         <Business />
-       {/*   <Billing /> */}
+        <Billing /> 
         <CardDeal />
         <Testimonials />
         <Clients />
