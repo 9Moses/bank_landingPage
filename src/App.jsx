@@ -9,7 +9,7 @@ import {
   Testimonials,
   Clients,
   CTA,
-  Billing,
+ /* Billing, */
   Footer,
 } from "./components/sections";
 
